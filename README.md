@@ -40,7 +40,10 @@ pip install -r requirements.txt
 ```
 - Unix:
 ```bash
-pip3 install -r requirements.txt
+apt install python3.12-venv
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
 ```
 ### Run the Bot
 - Replace the proxies example in ```proxies.txt``` to your own proxies
