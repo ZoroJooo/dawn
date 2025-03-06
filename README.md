@@ -27,6 +27,10 @@ email:token
 email:token
 email:token
 ```
+```bash
+git clone https://github.com/ZoroJooo/dawn/
+cd dawn
+```
 # Installation
 - Install Python For Windows: [Python](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)
 - For Unix: ``apt install python3 python3-pip -y``
